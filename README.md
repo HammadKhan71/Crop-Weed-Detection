@@ -31,3 +31,4 @@ If running locally:
 ```bash
 pip install torch torchvision torchaudio
 pip install -r requirements.txt
+![Lantana_20170715-120750-1_jpg rf dbefb925e592e72bf52ac5238094d6a9](https://github.com/user-attachments/assets/ee69e779-de9e-4b63-884f-5a7e59bd9532)
